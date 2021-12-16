@@ -1,7 +1,7 @@
 {
   "files": {
-    "app.js": "/abellinii/byron-and-paula-gender-reveal/static/js/app.c11cec20.chunk.js",
-    "app.js.map": "/abellinii/byron-and-paula-gender-reveal/static/js/app.c11cec20.chunk.js.map",
+    "app.js": "/abellinii/byron-and-paula-gender-reveal/static/js/app.5829871a.chunk.js",
+    "app.js.map": "/abellinii/byron-and-paula-gender-reveal/static/js/app.5829871a.chunk.js.map",
     "runtime~app.js": "/abellinii/byron-and-paula-gender-reveal/static/js/runtime~app.eb17cfde.js",
     "runtime~app.js.map": "/abellinii/byron-and-paula-gender-reveal/static/js/runtime~app.eb17cfde.js.map",
     "static/js/2.d6a36b40.chunk.js": "/abellinii/byron-and-paula-gender-reveal/static/js/2.d6a36b40.chunk.js",
@@ -33,6 +33,6 @@
   "entrypoints": [
     "static/js/runtime~app.eb17cfde.js",
     "static/js/2.d6a36b40.chunk.js",
-    "static/js/app.c11cec20.chunk.js"
+    "static/js/app.5829871a.chunk.js"
   ]
 }
